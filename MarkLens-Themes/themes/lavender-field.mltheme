@@ -1,0 +1,90 @@
+{
+  "format": "MarkLens Theme",
+  "version": 1,
+  "kind": "editor",
+  "editor": {
+    "appearance": "dark",
+    "backgroundKind": "custom",
+    "customAccent": {
+      "a": 1,
+      "b": 0.23137254901960785,
+      "g": 0.23137254901960785,
+      "r": 0.8784313725490196
+    },
+    "fontKey": "serif",
+    "fontSize": 16,
+    "glow": [
+      {
+        "a": 1,
+        "b": 0.4315482352941176,
+        "g": 0.38949647058823533,
+        "r": 0.33452800000000005
+      },
+      {
+        "a": 1,
+        "b": 0.43206224313725494,
+        "g": 0.38744043921568627,
+        "r": 0.3327289725490196
+      },
+      {
+        "a": 1,
+        "b": 0.4526225568627451,
+        "g": 0.41005678431372544,
+        "r": 0.36048539607843144
+      }
+    ],
+    "glowHeight": 0.2,
+    "headingFontKey": "rounded",
+    "id": "4FD5BA02-D779-4A6D-BC1D-6FAB6432E020",
+    "name": "Lavender Field",
+    "page": {
+      "a": 1,
+      "b": 0.2901960784313726,
+      "g": 0.23529411764705882,
+      "r": 0.17647058823529413
+    },
+    "preset": "aurora",
+    "style": {
+      "animatedBackground": false,
+      "checkbox": "round",
+      "codeFontKey": "mono",
+      "codeRadius": 10,
+      "cursorWidth": 2,
+      "edgeFade": 0.85,
+      "focusDim": 0.26,
+      "glass": "regular",
+      "grain": "off",
+      "headingColor": "text",
+      "headingCustom": {
+        "a": 1,
+        "b": 0.25,
+        "g": 0.2,
+        "r": 0.2
+      },
+      "headingMarks": false,
+      "headingScale": 1,
+      "headingTracking": 0,
+      "headingUnderline": false,
+      "headingWeight": "auto",
+      "lineHeight": 1,
+      "link": "accent",
+      "marker": "marker",
+      "nightWarmth": 0,
+      "pageWidth": 0,
+      "paragraphSpacing": 1,
+      "quote": "bar",
+      "strikeDone": true,
+      "tabCloseAlways": false,
+      "tabStyle": "glass",
+      "tableHeaderTint": true,
+      "tableStripes": false,
+      "textDark": {
+        "a": 1,
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "typewriterAnchor": 0.5
+    }
+  }
+}

@@ -90,6 +90,19 @@
       ],
       "file": "themes/terminal.mltheme",
       "version": 1
+    },
+    {
+      "id": "lavender-field",
+      "name": "Lavender Field",
+      "author": "Rishik Iyyappan",
+      "tags": [
+        "vibrantcozy"
+      ],
+      "file": "themes/lavender-field.mltheme",
+      "version": 1,
+      "summary": "",
+      "submittedBy": "rishik-iypn",
+      "added": "2026-10-05T18:31:19.133822+00:00"
     }
   ]
 }
