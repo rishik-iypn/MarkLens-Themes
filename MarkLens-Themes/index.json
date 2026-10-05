@@ -1,0 +1,95 @@
+{
+  "featured": null,
+  "themes": [
+    {
+      "id": "midnight-ink",
+      "name": "Midnight Ink",
+      "author": "MarkLens",
+      "tags": [
+        "dark",
+        "calm"
+      ],
+      "file": "themes/midnight-ink.mltheme",
+      "version": 1
+    },
+    {
+      "id": "paper-lantern",
+      "name": "Paper Lantern",
+      "author": "MarkLens",
+      "tags": [
+        "light",
+        "warm",
+        "paper"
+      ],
+      "file": "themes/paper-lantern.mltheme",
+      "version": 1
+    },
+    {
+      "id": "matcha",
+      "name": "Matcha",
+      "author": "MarkLens",
+      "tags": [
+        "light",
+        "green",
+        "calm"
+      ],
+      "file": "themes/matcha.mltheme",
+      "version": 1
+    },
+    {
+      "id": "deep-ocean",
+      "name": "Deep Ocean",
+      "author": "MarkLens",
+      "tags": [
+        "dark",
+        "blue"
+      ],
+      "file": "themes/deep-ocean.mltheme",
+      "version": 1
+    },
+    {
+      "id": "rainy-tokyo",
+      "name": "Rainy Tokyo",
+      "author": "MarkLens",
+      "tags": [
+        "dark",
+        "neon"
+      ],
+      "file": "themes/rainy-tokyo.mltheme",
+      "version": 1
+    },
+    {
+      "id": "nordic-morning",
+      "name": "Nordic Morning",
+      "author": "MarkLens",
+      "tags": [
+        "light",
+        "minimal"
+      ],
+      "file": "themes/nordic-morning.mltheme",
+      "version": 1
+    },
+    {
+      "id": "desert-dusk",
+      "name": "Desert Dusk",
+      "author": "MarkLens",
+      "tags": [
+        "light",
+        "warm"
+      ],
+      "file": "themes/desert-dusk.mltheme",
+      "version": 1
+    },
+    {
+      "id": "terminal",
+      "name": "Terminal",
+      "author": "MarkLens",
+      "tags": [
+        "dark",
+        "code"
+      ],
+      "file": "themes/terminal.mltheme",
+      "version": 1
+    }
+  ]
+}
